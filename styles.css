@@ -1,0 +1,17 @@
+body, html {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    text-align: center;
+    margin-top: 20%;
+    margin-bottom: 20%;
+}
+
+.card {
+    border: none;
+    box-shadow: rgb(100, 100, 111, 20%) 0px 7px 29px 0px;
+    border-radius: 15px;
+    margin-bottom: 20px;
+}
